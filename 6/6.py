@@ -22,6 +22,7 @@ for _ in range(6):
     right(90)
     forward(71*step)
     right(90)
+
 up()
 
 for x in range(-50, 50):
